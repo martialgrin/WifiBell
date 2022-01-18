@@ -1,0 +1,20 @@
+{
+  "name": "j5",
+  "version": "1.0.0",
+  "description": "project for critical design object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http_trace": "^0.5.0",
+    "index.js": "0.0.3",
+    "johnny-five": "^2.1.0",
+    "json": "^11.0.0",
+    "package.json": "^2.0.1",
+    "pcap": "^3.1.0",
+    "pcap-parser": "^0.2.1"
+  }
+}
