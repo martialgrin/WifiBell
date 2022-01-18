@@ -1,6 +1,6 @@
-node_modules/
+# node_modules/
 dist/
 .cache/
 .cache
-/node_modules
+# /node_modules
 out
